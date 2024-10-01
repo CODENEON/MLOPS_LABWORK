@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ratnesh/Mlops_labwork_4/data/notebooks/scripts/mlruns/mlruns/136812734081471738/2d1d628a608d42699a8c112f41119e5a/artifacts
+end_time: 1727764367539
+entry_point_name: ''
+experiment_id: '136812734081471738'
+lifecycle_stage: active
+run_id: 2d1d628a608d42699a8c112f41119e5a
+run_name: masked-bass-875
+run_uuid: 2d1d628a608d42699a8c112f41119e5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727764367515
+status: 3
+tags: []
+user_id: ratnesh

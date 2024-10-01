@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ratnesh/Mlops_labwork_4/data/notebooks/scripts/mlruns/mlruns/136812734081471738/22815df01cc94e478b8d19bc90c16e87/artifacts
+deleted_time: 1727762681682
+end_time: 1727762539606
+entry_point_name: ''
+experiment_id: '136812734081471738'
+lifecycle_stage: deleted
+run_id: 22815df01cc94e478b8d19bc90c16e87
+run_name: legendary-ray-874
+run_uuid: 22815df01cc94e478b8d19bc90c16e87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727762537336
+status: 3
+tags: []
+user_id: ratnesh

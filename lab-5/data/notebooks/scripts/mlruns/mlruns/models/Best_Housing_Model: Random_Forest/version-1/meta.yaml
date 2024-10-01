@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1727764367533
+current_stage: None
+description: null
+last_updated_timestamp: 1727764367533
+name: 'Best_Housing_Model: Random_Forest'
+run_id: 2d1d628a608d42699a8c112f41119e5a
+run_link: null
+source: file:///home/ratnesh/Mlops_labwork_4/data/notebooks/scripts/mlruns/mlruns/136812734081471738/2d1d628a608d42699a8c112f41119e5a/artifacts/Random_Forest_model
+status: READY
+status_message: null
+storage_location: file:///home/ratnesh/Mlops_labwork_4/data/notebooks/scripts/mlruns/mlruns/136812734081471738/2d1d628a608d42699a8c112f41119e5a/artifacts/Random_Forest_model
+user_id: null
+version: 1

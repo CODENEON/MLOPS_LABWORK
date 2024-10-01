@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/4c14d50a3b0f453abd734b1634850daa/artifacts
+deleted_time: 1727721884802
+end_time: 1727720555246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4c14d50a3b0f453abd734b1634850daa
+run_name: skittish-hound-658
+run_uuid: 4c14d50a3b0f453abd734b1634850daa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727720553929
+status: 4
+tags: []
+user_id: ratnesh

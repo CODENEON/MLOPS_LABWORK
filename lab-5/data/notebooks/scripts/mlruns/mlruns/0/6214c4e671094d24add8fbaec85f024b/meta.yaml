@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6214c4e671094d24add8fbaec85f024b/artifacts
+end_time: 1727722261336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6214c4e671094d24add8fbaec85f024b
+run_name: nosy-fish-236
+run_uuid: 6214c4e671094d24add8fbaec85f024b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727722260015
+status: 4
+tags: []
+user_id: ratnesh

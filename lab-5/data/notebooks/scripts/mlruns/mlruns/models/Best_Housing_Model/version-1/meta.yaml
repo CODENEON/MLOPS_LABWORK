@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1727764050900
+current_stage: None
+description: null
+last_updated_timestamp: 1727764050900
+name: Best_Housing_Model
+run_id: 307f310d85ff4e94b4d0ef3e2a725204
+run_link: null
+source: file:///home/ratnesh/Mlops_labwork_4/data/notebooks/scripts/mlruns/mlruns/136812734081471738/307f310d85ff4e94b4d0ef3e2a725204/artifacts/Random_Forest_model
+status: READY
+status_message: null
+storage_location: file:///home/ratnesh/Mlops_labwork_4/data/notebooks/scripts/mlruns/mlruns/136812734081471738/307f310d85ff4e94b4d0ef3e2a725204/artifacts/Random_Forest_model
+user_id: null
+version: 1

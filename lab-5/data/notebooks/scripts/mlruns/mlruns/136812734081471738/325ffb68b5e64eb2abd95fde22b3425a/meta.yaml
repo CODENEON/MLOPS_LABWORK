@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ratnesh/Mlops_labwork_4/data/notebooks/scripts/mlruns/mlruns/136812734081471738/325ffb68b5e64eb2abd95fde22b3425a/artifacts
+deleted_time: 1727764347233
+end_time: 1727763115439
+entry_point_name: ''
+experiment_id: '136812734081471738'
+lifecycle_stage: deleted
+run_id: 325ffb68b5e64eb2abd95fde22b3425a
+run_name: chill-dolphin-141
+run_uuid: 325ffb68b5e64eb2abd95fde22b3425a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727763112649
+status: 3
+tags: []
+user_id: ratnesh

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ratnesh/Mlops_labwork_4/data/notebooks/scripts/mlruns/mlruns/136812734081471738/fe59fb6f969c46ea9f3ae3f79b726483/artifacts
+deleted_time: 1727762681687
+end_time: 1727762433092
+entry_point_name: ''
+experiment_id: '136812734081471738'
+lifecycle_stage: deleted
+run_id: fe59fb6f969c46ea9f3ae3f79b726483
+run_name: respected-eel-112
+run_uuid: fe59fb6f969c46ea9f3ae3f79b726483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727762431213
+status: 3
+tags: []
+user_id: ratnesh

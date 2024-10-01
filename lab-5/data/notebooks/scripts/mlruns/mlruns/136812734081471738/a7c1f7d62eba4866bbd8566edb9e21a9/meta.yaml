@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ratnesh/Mlops_labwork_4/data/notebooks/scripts/mlruns/mlruns/136812734081471738/a7c1f7d62eba4866bbd8566edb9e21a9/artifacts
+deleted_time: 1727762681683
+end_time: 1727762537333
+entry_point_name: ''
+experiment_id: '136812734081471738'
+lifecycle_stage: deleted
+run_id: a7c1f7d62eba4866bbd8566edb9e21a9
+run_name: amusing-hare-795
+run_uuid: a7c1f7d62eba4866bbd8566edb9e21a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727762533929
+status: 3
+tags: []
+user_id: ratnesh

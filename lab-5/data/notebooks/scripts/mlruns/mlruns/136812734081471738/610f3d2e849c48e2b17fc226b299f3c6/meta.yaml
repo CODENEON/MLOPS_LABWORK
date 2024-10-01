@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ratnesh/Mlops_labwork_4/data/notebooks/scripts/mlruns/mlruns/136812734081471738/610f3d2e849c48e2b17fc226b299f3c6/artifacts
+deleted_time: 1727764347236
+end_time: 1727762698969
+entry_point_name: ''
+experiment_id: '136812734081471738'
+lifecycle_stage: deleted
+run_id: 610f3d2e849c48e2b17fc226b299f3c6
+run_name: whimsical-croc-749
+run_uuid: 610f3d2e849c48e2b17fc226b299f3c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727762696594
+status: 3
+tags: []
+user_id: ratnesh

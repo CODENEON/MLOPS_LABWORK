@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ratnesh/Mlops_labwork_4/data/notebooks/scripts/mlruns/mlruns/136812734081471738/5143147c4b61453f92155fcbac68fc18/artifacts
+deleted_time: 1727762681688
+end_time: 1727761947282
+entry_point_name: ''
+experiment_id: '136812734081471738'
+lifecycle_stage: deleted
+run_id: 5143147c4b61453f92155fcbac68fc18
+run_name: burly-horse-199
+run_uuid: 5143147c4b61453f92155fcbac68fc18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727761945072
+status: 3
+tags: []
+user_id: ratnesh

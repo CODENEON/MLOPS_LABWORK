@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ratnesh/Mlops_labwork_4/data/notebooks/scripts/mlruns/mlruns/136812734081471738/f689868c800548b398c78d9b141d03d7/artifacts
+deleted_time: 1727762681340
+end_time: 1727762570381
+entry_point_name: ''
+experiment_id: '136812734081471738'
+lifecycle_stage: deleted
+run_id: f689868c800548b398c78d9b141d03d7
+run_name: kindly-dove-64
+run_uuid: f689868c800548b398c78d9b141d03d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727762568087
+status: 3
+tags: []
+user_id: ratnesh

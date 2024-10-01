@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ratnesh/Mlops_labwork_4/data/notebooks/scripts/mlruns/mlruns/136812734081471738/6b2722bb4f36424aba61b8004583a9c9/artifacts
+deleted_time: 1727762682009
+end_time: 1727723271364
+entry_point_name: ''
+experiment_id: '136812734081471738'
+lifecycle_stage: deleted
+run_id: 6b2722bb4f36424aba61b8004583a9c9
+run_name: charming-stoat-178
+run_uuid: 6b2722bb4f36424aba61b8004583a9c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727723270182
+status: 3
+tags: []
+user_id: ratnesh

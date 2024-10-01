@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ratnesh/Mlops_labwork_4/data/notebooks/scripts/mlruns/mlruns/136812734081471738/78ff2fd003ee49eca413b6dcf9a116ee/artifacts
+deleted_time: 1727762681687
+end_time: 1727762435395
+entry_point_name: ''
+experiment_id: '136812734081471738'
+lifecycle_stage: deleted
+run_id: 78ff2fd003ee49eca413b6dcf9a116ee
+run_name: unleashed-owl-584
+run_uuid: 78ff2fd003ee49eca413b6dcf9a116ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727762433095
+status: 3
+tags: []
+user_id: ratnesh

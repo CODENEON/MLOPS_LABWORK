@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a858852ff2724dab804f48e25efba8a8/artifacts
+deleted_time: 1727721884801
+end_time: 1727721036989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a858852ff2724dab804f48e25efba8a8
+run_name: inquisitive-hen-233
+run_uuid: a858852ff2724dab804f48e25efba8a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727721035694
+status: 4
+tags: []
+user_id: ratnesh

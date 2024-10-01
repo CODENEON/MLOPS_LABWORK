@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ratnesh/Mlops_labwork_4/data/notebooks/scripts/mlruns/mlruns/136812734081471738/ab5bfd5d7c5a46838356d7efe84b6506/artifacts
+deleted_time: 1727762682008
+end_time: 1727761945069
+entry_point_name: ''
+experiment_id: '136812734081471738'
+lifecycle_stage: deleted
+run_id: ab5bfd5d7c5a46838356d7efe84b6506
+run_name: zealous-ox-865
+run_uuid: ab5bfd5d7c5a46838356d7efe84b6506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727761940932
+status: 3
+tags: []
+user_id: ratnesh

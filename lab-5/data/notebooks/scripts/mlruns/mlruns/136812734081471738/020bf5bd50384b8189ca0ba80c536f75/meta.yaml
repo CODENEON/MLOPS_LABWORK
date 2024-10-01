@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ratnesh/Mlops_labwork_4/data/notebooks/scripts/mlruns/mlruns/136812734081471738/020bf5bd50384b8189ca0ba80c536f75/artifacts
+deleted_time: 1727762681678
+end_time: 1727762568085
+entry_point_name: ''
+experiment_id: '136812734081471738'
+lifecycle_stage: deleted
+run_id: 020bf5bd50384b8189ca0ba80c536f75
+run_name: defiant-sloth-960
+run_uuid: 020bf5bd50384b8189ca0ba80c536f75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727762565422
+status: 3
+tags: []
+user_id: ratnesh

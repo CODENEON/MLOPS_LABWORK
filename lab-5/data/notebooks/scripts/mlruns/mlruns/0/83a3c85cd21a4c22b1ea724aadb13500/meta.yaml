@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/83a3c85cd21a4c22b1ea724aadb13500/artifacts
+deleted_time: 1727721884801
+end_time: 1727720715598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 83a3c85cd21a4c22b1ea724aadb13500
+run_name: carefree-fox-109
+run_uuid: 83a3c85cd21a4c22b1ea724aadb13500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727720714267
+status: 4
+tags: []
+user_id: ratnesh

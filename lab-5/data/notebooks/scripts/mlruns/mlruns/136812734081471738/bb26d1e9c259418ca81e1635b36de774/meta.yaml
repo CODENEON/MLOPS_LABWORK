@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ratnesh/Mlops_labwork_4/data/notebooks/scripts/mlruns/mlruns/136812734081471738/bb26d1e9c259418ca81e1635b36de774/artifacts
+deleted_time: 1727764347242
+end_time: 1727762696589
+entry_point_name: ''
+experiment_id: '136812734081471738'
+lifecycle_stage: deleted
+run_id: bb26d1e9c259418ca81e1635b36de774
+run_name: silent-wolf-153
+run_uuid: bb26d1e9c259418ca81e1635b36de774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727762693967
+status: 3
+tags: []
+user_id: ratnesh

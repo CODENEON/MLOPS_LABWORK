@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ratnesh/Mlops_labwork_4/data/notebooks/scripts/mlruns/mlruns/136812734081471738/307f310d85ff4e94b4d0ef3e2a725204/artifacts
+deleted_time: 1727764346916
+end_time: 1727764050903
+entry_point_name: ''
+experiment_id: '136812734081471738'
+lifecycle_stage: deleted
+run_id: 307f310d85ff4e94b4d0ef3e2a725204
+run_name: gifted-ox-92
+run_uuid: 307f310d85ff4e94b4d0ef3e2a725204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727764050888
+status: 3
+tags: []
+user_id: ratnesh

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ratnesh/Mlops_labwork_4/data/notebooks/scripts/mlruns/mlruns/136812734081471738/19b6b48a07184619900a4f8922b8d527/artifacts
+deleted_time: 1727764347229
+end_time: 1727764050884
+entry_point_name: ''
+experiment_id: '136812734081471738'
+lifecycle_stage: deleted
+run_id: 19b6b48a07184619900a4f8922b8d527
+run_name: fun-sow-926
+run_uuid: 19b6b48a07184619900a4f8922b8d527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727764049642
+status: 3
+tags: []
+user_id: ratnesh

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ratnesh/Mlops_labwork_4/data/notebooks/scripts/mlruns/mlruns/136812734081471738/202dd7ec8aca41b797d06ed7cdf02306/artifacts
+deleted_time: 1727762682010
+end_time: 1727723270181
+entry_point_name: ''
+experiment_id: '136812734081471738'
+lifecycle_stage: deleted
+run_id: 202dd7ec8aca41b797d06ed7cdf02306
+run_name: incongruous-mink-191
+run_uuid: 202dd7ec8aca41b797d06ed7cdf02306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727723268822
+status: 3
+tags: []
+user_id: ratnesh

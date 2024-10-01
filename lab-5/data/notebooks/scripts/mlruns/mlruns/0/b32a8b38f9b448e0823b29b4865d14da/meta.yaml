@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/b32a8b38f9b448e0823b29b4865d14da/artifacts
+deleted_time: 1727721884804
+end_time: 1727720430133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b32a8b38f9b448e0823b29b4865d14da
+run_name: gregarious-shrew-216
+run_uuid: b32a8b38f9b448e0823b29b4865d14da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727720428835
+status: 4
+tags: []
+user_id: ratnesh

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ratnesh/Mlops_labwork_4/data/notebooks/scripts/mlruns/mlruns/136812734081471738/5ff38345e7c94f419e208caffacd420c/artifacts
+deleted_time: 1727764347233
+end_time: 1727763116473
+entry_point_name: ''
+experiment_id: '136812734081471738'
+lifecycle_stage: deleted
+run_id: 5ff38345e7c94f419e208caffacd420c
+run_name: righteous-duck-305
+run_uuid: 5ff38345e7c94f419e208caffacd420c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727763115441
+status: 3
+tags: []
+user_id: ratnesh

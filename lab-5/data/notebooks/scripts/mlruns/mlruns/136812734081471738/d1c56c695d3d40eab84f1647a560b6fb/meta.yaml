@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ratnesh/Mlops_labwork_4/data/notebooks/scripts/mlruns/mlruns/136812734081471738/d1c56c695d3d40eab84f1647a560b6fb/artifacts
+end_time: 1727764365230
+entry_point_name: ''
+experiment_id: '136812734081471738'
+lifecycle_stage: active
+run_id: d1c56c695d3d40eab84f1647a560b6fb
+run_name: gifted-calf-386
+run_uuid: d1c56c695d3d40eab84f1647a560b6fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727764363466
+status: 3
+tags: []
+user_id: ratnesh
