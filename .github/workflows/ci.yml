@@ -1,4 +1,5 @@
 name: MLOps Pipeline CI
+
 on:
   push:
     branches:
@@ -23,20 +24,22 @@ jobs:
       uses: actions/cache@v2
       with:
         path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+        key: ${{ runner.os }}-pip-${{ hashFiles('lab-6/requirements.txt') }}
         restore-keys: |
           ${{ runner.os }}-pip-
-    
+
     - name: Install dependencies
       run: |
+        cd lab-6
         pip install --upgrade pip
         pip install -r requirements.txt
 
     - name: Run training script
       run: |
+        cd lab-6
         python train.py
 
     - name: Run tests
       run: |
+        cd lab-6
         pytest
-
