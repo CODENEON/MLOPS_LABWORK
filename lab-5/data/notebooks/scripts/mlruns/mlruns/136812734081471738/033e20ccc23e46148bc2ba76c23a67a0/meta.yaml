@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ratnesh/Mlops_labwork_4/data/notebooks/scripts/mlruns/mlruns/136812734081471738/033e20ccc23e46148bc2ba76c23a67a0/artifacts
+end_time: 1727767884861
+entry_point_name: ''
+experiment_id: '136812734081471738'
+lifecycle_stage: active
+run_id: 033e20ccc23e46148bc2ba76c23a67a0
+run_name: rare-goose-58
+run_uuid: 033e20ccc23e46148bc2ba76c23a67a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727767882281
+status: 3
+tags: []
+user_id: ratnesh
